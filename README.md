@@ -70,7 +70,7 @@ Bu uygulama için aşağıdaki Python kütüphanelerine ihtiyacınız olacak:
 
 ## 🖼️ Arayüz Görünümü
 
-| Açık Tema | Karanlık Tema |
+| Açık Tema | Karanlık Tema | İsim sorma ekranı|
 |----------|----------------|
 | ![light](docs/light.png) | ![dark](docs/dark.png) | ![name](docs/name.png) |
 ## Katkıda Bulunma
