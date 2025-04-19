@@ -72,7 +72,7 @@ Bu uygulama için aşağıdaki Python kütüphanelerine ihtiyacınız olacak:
 
 | Açık Tema | Karanlık Tema |
 |----------|----------------|
-| ![light](docs/light.png) | ![dark](docs/dark.png) |![name](docs/name.png) |
+| ![light](docs/light.png) | ![dark](docs/dark.png) | ![name](docs/name.png) |
 ## Katkıda Bulunma
 
 Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
